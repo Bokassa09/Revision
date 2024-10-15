@@ -1,5 +1,5 @@
 # Affiche un message d'accueil
-print("👋 Bienvenue dans ce programme !, ce jeu est un jeu dangereux")
+print("👋 Bienvenue dans ce programme !, ce jeu est un jeu dangereux, je serai ravi de te voir jouer cool ")
 
 # Demande les informations de l'utilisateur
 prenom = input("Entrez votre prénom : ")
